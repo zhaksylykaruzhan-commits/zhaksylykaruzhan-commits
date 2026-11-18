@@ -16,19 +16,19 @@ Technical Skills
 
 Programming Languages
 
- C++
- C#
- Java
+ •C++
+ •C#
+ •Java
 
 Web Technologies
 
- HTML
- CSS
+ •HTML
+ •CSS
 
 Databases
 
- SQL
- PostgreSQL
+ •SQL
+ •PostgreSQL
 
 Core Knowledge
 

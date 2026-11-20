@@ -130,4 +130,4 @@ Currently Improving
 
 Contact
 
-📧 Email: aruzhlyk.aruzhan.alash@gmail.com
+📧 Email: zhaksylyk.aruzhan.alash@gmail.com
